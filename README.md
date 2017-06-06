@@ -6,10 +6,12 @@ chen huaqing
 趣味など
 # subject
 
-IoT利用したユビキタス出席管理システム（サーバ / アプリ）
- 
+[IoT利用したユビキタス出席管理システム（サーバ / アプリ）](https://github.com/Amaiye/SmartClassroom/)
+
+# Progress
+[進捗...](https://github.com/Amaiye/SmartClassroom/Progress2017)
 
 # plan
-予定...
+[予定...](https://github.com/Amaiye/SmartClassroom/plan2017)
 
 
