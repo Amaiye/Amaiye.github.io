@@ -11,9 +11,9 @@ chen huaqing
 
 
 # Progress
-[進捗...](https://github.com/Amaiye/SmartClassroom/Progress2017.md)
+[進捗...](https://github.com/Amaiye/SmartClassroom/blob/master/progress2017.md)
 
 # plan
-[予定...](https://github.com/Amaiye/SmartClassroom/plan2017.md)
+[予定...](https://github.com/Amaiye/SmartClassroom/blob/master/plan2017.md)
 
 
