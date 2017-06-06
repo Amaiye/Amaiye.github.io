@@ -3,11 +3,12 @@
 chen huaqing
 # hobby
 
-[趣味など](https://amaiye.wordpress.com/)
+[趣味など](https://amaiye.wordpress.com/),[testsite](http://chenhq.mki.biz/)
+
 # subject
 
 [IoT利用したユビキタス出席管理システム（サーバ / アプリ）](https://github.com/Amaiye/SmartClassroom/)
-[testsite](http://chenhq.mki.biz/)
+
 
 # Progress
 [進捗...](https://github.com/Amaiye/SmartClassroom/Progress2017.md)
